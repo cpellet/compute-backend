@@ -109,6 +109,10 @@ venv.bak/
 .spyderproject
 .spyproject
 
+.DS_Store
+flask/
+config.ini
+
 # Rope project settings
 .ropeproject
 
